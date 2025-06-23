@@ -1,0 +1,16 @@
+{
+  "name": "floating-image-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "latest",
+    "electron-packager": "^17.1.2"
+  },
+  "dependencies": {
+    "@electron/remote": "^2.1.2",
+    "electron-auto-launch": "^5.0.7"
+  }
+}
